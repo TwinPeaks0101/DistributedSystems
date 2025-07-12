@@ -1,0 +1,1169 @@
+[
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "64", "zipCode": "20562"},
+    "stars": "3",
+    "numOfReviews": "10",
+    "roomImage": "src/pictures/bunTh.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Santorinis", "number": "112", "zipCode": "56734"},
+    "stars": "3",
+    "numOfReviews": "25",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "251",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Crete", "road": "Chaplin", "number": "11", "zipCode": "91097"},
+    "stars": "3",
+    "numOfReviews": "34",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "111",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+  "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+  "stars": "5",
+  "numOfReviews": "10003",
+  "roomImage": "src/pictures/resort.jpg",
+  "pricePerNight": "990",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Trikala", "road": "Country Road", "number": "12", "zipCode": "17834"},
+    "stars": "5",
+    "numOfReviews": "320",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "55",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "22",
+    "numOfPersons": "3",
+    "area": {"city": "Athens", "road": "Thiseio", "number": "2", "zipCode": "11404"},
+    "stars": "4",
+    "numOfReviews": "107",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "100",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Kifissia", "road": "Bouboulinas", "number": "1", "zipCode": "16404"},
+    "stars": "4",
+    "numOfReviews": "500",
+    "roomImage": "src/pictures/kifissiaBB.jpg",
+    "pricePerNight": "153",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "330",
+    "numOfPersons": "5",
+    "area": {"city": "London", "road": "Oxford Street", "number": "5", "zipCode": "13522"},
+    "stars": "5",
+    "numOfReviews": "12",
+    "roomImage": "src/pictures/london.jpg",
+    "pricePerNight": "36",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "23",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "4", "zipCode": "24462"},
+    "stars": "2",
+    "numOfReviews": "110",
+    "roomImage": "src/pictures/bung.jpg",
+    "pricePerNight": "133",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "11",
+    "numOfPersons": "4",
+    "area": {"city": "Larissa", "road": "Kalirrois", "number": "13", "zipCode": "12342"},
+    "stars": "5",
+    "numOfReviews": "33",
+    "roomImage": "src/pictures/volos2.jpg",
+    "pricePerNight": "68",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "281",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Nikis", "number": "56", "zipCode": "34734"},
+    "stars": "4",
+    "numOfReviews": "85",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "201",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "22",
+    "numOfPersons": "4",
+    "area": {"city": "Omonoia", "road": "Trikalwn", "number": "10", "zipCode": "91090"},
+    "stars": "2",
+    "numOfReviews": "1112",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "110",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "791",
+    "numOfPersons": "10",
+    "area": {"city": "Scorpios", "road": "Lefkados", "number": "2", "zipCode": "33634"},
+    "stars": "5",
+    "numOfReviews": "10063",
+    "roomImage": "src/pictures/sc.jpg",
+    "pricePerNight": "1000",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+
+  {"accType": "Cabin",
+    "roomName": "7",
+    "numOfPersons": "5",
+    "area": {"city": "Kalamata", "road": "Kalamatas", "number": "134", "zipCode": "17034"},
+    "stars": "5",
+    "numOfReviews": "21",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "120",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Athens", "road": "Kalamiwn", "number": "9", "zipCode": "91434"},
+    "stars": "4",
+    "numOfReviews": "18",
+    "roomImage": "src/pictures/at.jpg",
+    "pricePerNight": "26",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "100",
+    "numOfPersons": "4",
+    "area": {"city": "Maroussi", "road": "Troias", "number": "5", "zipCode": "16404"},
+    "stars": "5",
+    "numOfReviews": "400",
+    "roomImage": "src/pictures/marousi.jpg",
+    "pricePerNight": "143",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Kritis", "number": "112", "zipCode": "56734"},
+    "stars": "3",
+    "numOfReviews": "25",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "201",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Larissa", "road": "Kerasiwn", "number": "99", "zipCode": "91099"},
+    "stars": "3",
+    "numOfReviews": "133",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "50",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Motel",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+    "stars": "5",
+    "numOfReviews": "10003",
+    "roomImage": "src/pictures/resort.jpg",
+    "pricePerNight": "999",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Trikala", "road": "Country Road", "number": "12", "zipCode": "17000"},
+    "stars": "5",
+    "numOfReviews": "320",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "80",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "27",
+    "numOfPersons": "4",
+    "area": {"city": "Athens", "road": "Zografou", "number": "6", "zipCode": "11634"},
+    "stars": "4",
+    "numOfReviews": "100",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "60",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "64", "zipCode": "20562"},
+    "stars": "3",
+    "numOfReviews": "10",
+    "roomImage": "src/pictures/bunTh.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Thessalonikis", "number": "2", "zipCode": "12434"},
+    "stars": "4",
+    "numOfReviews": "25",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "201",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+    "stars": "5",
+    "numOfReviews": "10003",
+    "roomImage": "src/pictures/resort.jpg",
+    "pricePerNight": "999",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Serres", "road": "Serrwn", "number": "2", "zipCode": "17634"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "60",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "22",
+    "numOfPersons": "3",
+    "area": {"city": "Athens", "road": "Syndagma Square", "number": "2", "zipCode": "11434"},
+    "stars": "4",
+    "numOfReviews": "107",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "96",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "64", "zipCode": "20562"},
+    "stars": "3",
+    "numOfReviews": "10",
+    "roomImage": "src/pictures/bunTh.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Santorinis", "number": "112", "zipCode": "56734"},
+    "stars": "3",
+    "numOfReviews": "25",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "201",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Ios", "road": "Palama", "number": "1", "zipCode": "81097"},
+    "stars": "5",
+    "numOfReviews": "123",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "121",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+    "stars": "5",
+    "numOfReviews": "10003",
+    "roomImage": "src/pictures/resort.jpg",
+    "pricePerNight": "999",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Karditsa", "road": "Magoulas", "number": "88", "zipCode": "17830"},
+    "stars": "5",
+    "numOfReviews": "1111",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "11",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "229",
+    "numOfPersons": "3",
+    "area": {"city": "Athens", "road": "Syndagma Square", "number": "2", "zipCode": "11434"},
+    "stars": "4",
+    "numOfReviews": "107",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "96",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Kifissia", "road": "Megalou Aleksandrou", "number": "10", "zipCode": "16464"},
+    "stars": "4",
+    "numOfReviews": "509",
+    "roomImage": "src/pictures/met.jpg",
+    "pricePerNight": "175",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "64", "zipCode": "20562"},
+    "stars": "3",
+    "numOfReviews": "10",
+    "roomImage": "src/pictures/bunTh.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "20",
+    "numOfPersons": "4",
+    "area": {"city": "Faliro", "road": "Troias", "number": "11", "zipCode": "56704"},
+    "stars": "3",
+    "numOfReviews": "258",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "12",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Crete", "road": "Chaplin", "number": "11", "zipCode": "91097"},
+    "stars": "3",
+    "numOfReviews": "34",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "111",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+    "stars": "5",
+    "numOfReviews": "10003",
+    "roomImage": "src/pictures/resort.jpg",
+    "pricePerNight": "999",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Evros", "road": "Palama", "number": "112", "zipCode": "17835"},
+    "stars": "3",
+    "numOfReviews": "344",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "92",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "22",
+    "numOfPersons": "3",
+    "area": {"city": "Athens", "road": "Patissiwn", "number": "25", "zipCode": "11436"},
+    "stars": "3",
+    "numOfReviews": "17",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "50",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Maroussi", "road": "Amarousiou Chalandriou", "number": "10", "zipCode": "16404"},
+    "stars": "4",
+    "numOfReviews": "500",
+    "roomImage": "src/pictures/w.jpg",
+    "pricePerNight": "147",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Serres", "road": "Kerkyras", "number": "4", "zipCode": "20682"},
+    "stars": "5",
+    "numOfReviews": "170",
+    "roomImage": "src/pictures/w.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Polytechniou", "number": "11", "zipCode": "58734"},
+    "stars": "3",
+    "numOfReviews": "250",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "210",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Crete", "road": "Chaplin", "number": "11", "zipCode": "91097"},
+    "stars": "3",
+    "numOfReviews": "34",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "111",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Scorpios", "road": "Ekavis", "number": "52", "zipCode": "45634"},
+    "stars": "5",
+    "numOfReviews": "10003",
+    "roomImage": "src/pictures/resort.jpg",
+    "pricePerNight": "999",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Meteora", "road": "Kalabakas", "number": "18", "zipCode": "47834"},
+    "stars": "4",
+    "numOfReviews": "20",
+    "roomImage": "src/pictures/met.jpg",
+    "pricePerNight": "71",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "22",
+    "numOfPersons": "3",
+    "area": {"city": "Lamia", "road": "Lamias", "number": "93", "zipCode": "11734"},
+    "stars": "3",
+    "numOfReviews": "1070",
+    "roomImage": "src/pictures/athensAp.jpg",
+    "pricePerNight": "56",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Saronida", "road": "Mykonou", "number": "1", "zipCode": "16004"},
+    "stars": "6",
+    "numOfReviews": "500",
+    "roomImage": "src/pictures/kifissiaBB.jpg",
+    "pricePerNight": "143",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bungalow",
+    "roomName": "235",
+    "numOfPersons": "4",
+    "area": {"city": "Thessaloniki", "road": "White Tower", "number": "64", "zipCode": "20562"},
+    "stars": "3",
+    "numOfReviews": "10",
+    "roomImage": "src/pictures/bunTh.jpg",
+    "pricePerNight": "130",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "101",
+    "numOfPersons": "2",
+    "area": {"city": "Volos", "road": "Averof", "number": "12", "zipCode": "78912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/v.jpg",
+    "pricePerNight": "66",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Bed and Breakfast",
+    "roomName": "201",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Santorinis", "number": "112", "zipCode": "56734"},
+    "stars": "3",
+    "numOfReviews": "25",
+    "roomImage": "src/pictures/bbAth.jpg",
+    "pricePerNight": "201",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Hotel",
+    "roomName": "130",
+    "numOfPersons": "2",
+    "area": {"city": "Thessaloniki", "road": "Thrakis", "number": "12", "zipCode": "18912"},
+    "stars": "4",
+    "numOfReviews": "30",
+    "roomImage": "src/pictures/whiteTower.jpg",
+    "pricePerNight": "70",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Maisonette",
+    "roomName": "205",
+    "numOfPersons": "4",
+    "area": {"city": "Athina", "road": "Louloudiwn", "number": "112", "zipCode": "91734"},
+    "stars": "3",
+    "numOfReviews": "32",
+    "roomImage": "src/pictures/maisonetteL.jpg",
+    "pricePerNight": "99",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {"accType": "Motel",
+    "roomName": "31",
+    "numOfPersons": "3",
+    "area": {"city": "Crete", "road": "Chaplin", "number": "11", "zipCode": "91097"},
+    "stars": "3",
+    "numOfReviews": "34",
+    "roomImage": "src/pictures/crete.jpg",
+    "pricePerNight": "111",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+  {
+    "accType": "Resort",
+    "roomName": "701",
+    "numOfPersons": "8",
+    "area": {"city": "Milan", "road": "Milano Street", "number": "50", "zipCode": "35634"},
+    "stars": "5",
+    "numOfReviews": "1003",
+    "roomImage": "src/pictures/milano.jpg",
+    "pricePerNight": "900",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Cabin",
+    "roomName": "5",
+    "numOfPersons": "4",
+    "area": {"city": "Wropos", "road": "Loyloydiwn", "number": "200", "zipCode": "10834"},
+    "stars": "2",
+    "numOfReviews": "1000",
+    "roomImage": "src/pictures/trikala.jpg",
+    "pricePerNight": "41",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  },
+
+  {"accType": "Apartment",
+    "roomName": "224",
+    "numOfPersons": "4",
+    "area": {"city": "Athens", "road": "Omonoia", "number": "21", "zipCode": "10434"},
+    "stars": "4",
+    "numOfReviews": "100",
+    "roomImage": "src/pictures/om.jpg",
+    "pricePerNight": "90",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+
+  },
+
+  {"accType": "Bed and Breakfast",
+    "roomName": "225",
+    "numOfPersons": "3",
+    "area": {"city": "Rome", "road": "Bolzano", "number": "3", "zipCode": "88404"},
+    "stars": "5",
+    "numOfReviews": "505",
+    "roomImage": "src/pictures/rome.jpg",
+    "pricePerNight": "213",
+    "availability": {
+      "availableFrom": "2024-01-01",
+      "availableTo": "2024-12-31"
+    }
+  }
+
+]

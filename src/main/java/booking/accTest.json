@@ -1,0 +1,18 @@
+[
+  {
+    "accType": "Luxury Hotel",
+    "roomName": "303",
+    "numOfPersons": "5",
+    "area": {"city": "Athens", "road": "Voulis", "number": "45", "zipCode": "13542"},
+    "stars": "4",
+    "numOfReviews": "15",
+    "roomImage": "src/pictures/luxuryHotel.jpg",
+    "pricePerNight": "35",
+    "minPrice": "30",
+    "maxPrice": "100",
+    "minRanking": "2",
+    "maxRanking": "5",
+    "dateFrom": "2024-5-1",
+    "dateTo": "2024-10-31"
+  }
+]
